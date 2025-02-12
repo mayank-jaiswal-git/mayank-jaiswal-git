@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <span style="color:#1ABC9C;">Mayank Jaiswal</span> 👋</h1>
 
 <p align="center">
-  <em>Java Developer | Java Enthusiast | Good Web Designer</em>
+  <em>Java Spring Boot Developer | Java Developer | Web Developer</em>
 </p>
 
 ---
@@ -23,9 +23,9 @@
   <a href="https://www.linkedin.com/in/mayank-jaiswal-41b828297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mayankjais_77/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <a href="https://leetcode.com/Mayank_7722/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,git,github&theme=dark" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,spring,hibernate,mysql,eclipse,vscode,postman,github&theme=dark" alt="Skills"/>
   </a>
 </p>
 
