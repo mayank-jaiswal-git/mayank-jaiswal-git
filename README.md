@@ -8,7 +8,7 @@
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on *Java Projects*
+- 🔭 I’m currently working on *Spring Boot Projects*
 - 🌱 I’m currently learning *New Technology*
 - 📫 Reach me at: [mayankjaiswal772219@gmail.com](mailto:mayankjaiswal772219@gmail.com)
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,spring,hibernate,mysql,eclipse,vscode,postman,github&theme=dark" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,java,spring,hibernate,mysql,eclipse,vscode,postman" alt="Skills"/>
   </a>
 </p>
 
