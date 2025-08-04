@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <span style="color:#1ABC9C;">Mayank Jaiswal</span> 👋</h1>
 
 <p align="center">
-  <em>Java Spring Boot Developer | Java Developer | Web Developer</em>
+  <em>Software Developer | Java Developer | Full Stack Enthusiast</em>
 </p>
 
 ---
